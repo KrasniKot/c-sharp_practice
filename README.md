@@ -4,6 +4,7 @@
 
 ### HelloWorld:
 - How to compile cs files
+- How to write comments
 - How to print to the console
 - What string interpolation is
 - How to pass arguments to `Main()`
@@ -15,3 +16,7 @@
  - How to concatenate strings
  - How to use `Substring()` and `IndexOf()`
 - What String Builders are
+
+### IfElseLoopsFunctions:
+- How to use `Random`
+- How to use `if`, `if... else` statements.
