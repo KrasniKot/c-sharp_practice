@@ -3,7 +3,7 @@
 ## Tasks:
 
 ### Task 0. Positive is better:
-Make a program that assings a random signed number to the variable `number` each time is executed.
+Write a program that assings a random signed number to the variable `number` each time is executed.
 Print `number`.
 The output should be:
  - The number followed by:
@@ -13,7 +13,7 @@ The output should be:
  - A new line.
 
 ### Task 1. Last Digit:
-Make a program that assings a random signed number to the variable `number` each time is executed.
+Write a program that assings a random signed number to the variable `number` each time is executed.
 * The output of the program should be:
  * The string Last digit of, followed by
   * the number, followed by
@@ -22,3 +22,8 @@ Make a program that assings a random signed number to the variable `number` each
    * if the last digit is 0: the string and is 0
    * if the last digit is less than 6 and not 0: the string and is less than 6 and not 0
   * followed by a new line
+
+### Task 2. Know the alphabet?:
+Write a program that prints the ASCII alphabet, in lowercase, followed by a new line.
+- Use only one `Console.Write()` function
+- Use only one loop in your code
