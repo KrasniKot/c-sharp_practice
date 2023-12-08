@@ -27,3 +27,16 @@ Write a program that assings a random signed number to the variable `number` eac
 Write a program that prints the ASCII alphabet, in lowercase, followed by a new line.
 - Use only one `Console.Write()` function
 - Use only one loop in your code
+
+### Task 3. Hexadecimal:
+Write a program that prints all numbers from `0` to `98` in decimal and in hexadecimal.
+- Use only one `Console.Write` function
+- Use only one loop in your code
+Output example:
+```
+0: 0x0
+1: 0x1
+2: 0x2
+3: 0x3
+...
+```
